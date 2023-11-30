@@ -48,6 +48,9 @@ python real_time_detection.py
 - real_time_detection.py: Real-time sign language detection script.
 - requirements.txt: List of required Python packages.
 
+## Dataset 
+
+![dataset](https://github.com/paramsureliya/Sign-Language-MNIST-Kaggle/assets/148708744/3d5a2ad4-4c87-45d0-abfb-b5876bf54281)
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or pull requests.
