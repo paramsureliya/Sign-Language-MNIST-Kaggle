@@ -42,6 +42,12 @@ python real_time_detection.py
 ```
 
 ## Files and Structure
+
+- train_model.py: Script to train the CNN model.
+- evaluate_model.py: Script to evaluate the model on the test set.
+- real_time_detection.py: Real-time sign language detection script.
+- requirements.txt: List of required Python packages.
+
 -train_model.py: Script to train the CNN model.
 -evaluate_model.py: Script to evaluate the model on the test set.
 -real_time_detection.py: Real-time sign language detection script.
